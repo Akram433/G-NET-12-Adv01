@@ -13,6 +13,7 @@ namespace Assigment_1Adv
     {
         static void Main(string[] args)
         {
+
             #region Q1
             //generics means that we can use any data type in our code without specifying it
             // we use generics to create reusable code that can work with any data type, and to improve performance by avoiding boxing and unboxing of value types.
